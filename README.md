@@ -6,6 +6,7 @@ Detecting penumonia from X-ray images
 Its a binary classification problem. The two classes are Normal and Pneumonia.
 Normal Patients X-ray images
 normal
+![1](https://user-images.githubusercontent.com/38466518/110576865-83d2ac00-812f-11eb-991b-4e5ac9a08d44.png)
 
 
 Pneumonia effected X-ray images
